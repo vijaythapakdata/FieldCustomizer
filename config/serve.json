@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://y5sx6.sharepoint.com/sites/PowerAppsTraining_Site/Lists/FieldCustomizer/AllItems.aspx",
+      "fieldCustomizers": {
+        "Marks": {
+          "id": "1dd6cfdf-9473-4ac5-bcec-2d3b4f019254",
+          "properties": {
+            "sampleText": ""
+          }
+        }
+      }
+    },
+    "fieldCustomizer": {
+      "pageUrl": "https://y5sx6.sharepoint.com/sites/PowerAppsTraining_Site/Lists/FieldCustomizer/AllItems.aspx",
+      "fieldCustomizers": {
+        "Marks": {
+          "id": "1dd6cfdf-9473-4ac5-bcec-2d3b4f019254",
+          "properties": {
+            "sampleText": ""
+          }
+        }
+      }
+    }
+  }
+}
