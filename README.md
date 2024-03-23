@@ -60,6 +60,10 @@ This extension illustrates the following concepts:
 - topic 2
 - topic 3
 
+
+![image](https://github.com/vijaythapakdata/FieldCustomizer/assets/88570113/83a5d4da-94af-486e-8454-c8f42840b95b)
+
+
 > Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
 
 > Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
